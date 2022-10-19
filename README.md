@@ -1,4 +1,4 @@
 # web_help_I3C
-basic file as páca asked for
+basic file as Páca asked for
 
-might be a good idea to copy it to .PHP file so the forms work
+PHP/HTML supported
