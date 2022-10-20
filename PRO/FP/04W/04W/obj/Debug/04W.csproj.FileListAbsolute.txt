@@ -1,0 +1,10 @@
+S:\Pro3\Finished programs\04W\04W\bin\Debug\04W.exe.config
+S:\Pro3\Finished programs\04W\04W\bin\Debug\04W.exe
+S:\Pro3\Finished programs\04W\04W\bin\Debug\04W.pdb
+S:\Pro3\Finished programs\04W\04W\obj\Debug\04W.csprojAssemblyReference.cache
+S:\Pro3\Finished programs\04W\04W\obj\Debug\_04W.Form1.resources
+S:\Pro3\Finished programs\04W\04W\obj\Debug\_04W.Properties.Resources.resources
+S:\Pro3\Finished programs\04W\04W\obj\Debug\04W.csproj.GenerateResource.cache
+S:\Pro3\Finished programs\04W\04W\obj\Debug\04W.csproj.CoreCompileInputs.cache
+S:\Pro3\Finished programs\04W\04W\obj\Debug\04W.exe
+S:\Pro3\Finished programs\04W\04W\obj\Debug\04W.pdb

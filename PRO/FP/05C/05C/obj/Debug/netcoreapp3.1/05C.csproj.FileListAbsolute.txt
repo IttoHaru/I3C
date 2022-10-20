@@ -1,0 +1,13 @@
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.exe
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.deps.json
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.runtimeconfig.json
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.runtimeconfig.dev.json
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.dll
+S:\Pro3\Finished programs\05C\05C\bin\Debug\netcoreapp3.1\05C.pdb
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.csprojAssemblyReference.cache
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.AssemblyInfoInputs.cache
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.AssemblyInfo.cs
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.csproj.CoreCompileInputs.cache
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.dll
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.pdb
+S:\Pro3\Finished programs\05C\05C\obj\Debug\netcoreapp3.1\05C.genruntimeconfig.cache
