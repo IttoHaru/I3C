@@ -1,0 +1,13 @@
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.exe
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.deps.json
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.runtimeconfig.json
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.runtimeconfig.dev.json
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.dll
+S:\Pro3\Finished programs\10C\10C\bin\Debug\netcoreapp3.1\10C.pdb
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.csprojAssemblyReference.cache
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.AssemblyInfoInputs.cache
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.AssemblyInfo.cs
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.csproj.CoreCompileInputs.cache
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.dll
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.pdb
+S:\Pro3\Finished programs\10C\10C\obj\Debug\netcoreapp3.1\10C.genruntimeconfig.cache
