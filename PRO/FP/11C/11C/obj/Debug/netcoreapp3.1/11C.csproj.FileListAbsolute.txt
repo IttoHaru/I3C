@@ -1,0 +1,13 @@
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.csprojAssemblyReference.cache
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.AssemblyInfoInputs.cache
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.AssemblyInfo.cs
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.csproj.CoreCompileInputs.cache
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.exe
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.deps.json
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.runtimeconfig.json
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.runtimeconfig.dev.json
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.dll
+S:\Pro3\Finished programs\11C\11C\bin\Debug\netcoreapp3.1\11C.pdb
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.dll
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.pdb
+S:\Pro3\Finished programs\11C\11C\obj\Debug\netcoreapp3.1\11C.genruntimeconfig.cache
