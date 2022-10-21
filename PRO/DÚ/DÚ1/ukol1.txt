@@ -1,0 +1,7 @@
+28) Console.WriteLine("jméno Příjmení");
+29) Console.write(x);
+30) Console.writeLine("součet čísel je" + y);
+31) int a = int.Parse(Console.ReadLine());
+32) double t;
+33) string c = Console.ReadLine();
+34) char d = char.Parse(Console.ReadLine());
