@@ -1,0 +1,10 @@
+S:\Pro3\Finished Programs\12W\12W\bin\Debug\12W.exe.config
+S:\Pro3\Finished Programs\12W\12W\bin\Debug\12W.exe
+S:\Pro3\Finished Programs\12W\12W\bin\Debug\12W.pdb
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\12W.csprojAssemblyReference.cache
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\_12W.Form1.resources
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\_12W.Properties.Resources.resources
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\12W.csproj.GenerateResource.cache
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\12W.csproj.CoreCompileInputs.cache
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\12W.exe
+S:\Pro3\Finished Programs\12W\12W\obj\Debug\12W.pdb
