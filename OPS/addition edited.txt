@@ -1,0 +1,18 @@
+@echo off
+cls
+set /a k=0
+set /a r=0
+:start
+echo --------------
+echo hadani nahodneho cisla
+echo -------------
+set /a s1=%random% * 10 /32768 + 1
+set /p s2=zadejte cele cislo 0-9:
+
+if %s1% EQU %s2% (echo vyborne!! uhodl jste) else (echo skoda , neuhodl jsi)
+if %s1% EQU %s2% (set /a k=k + 1) else (set /a r=r + 1)
+set /p o=retry? (y/n):
+if %o%==y goto start
+echo vase uspesnost je %k% spravne a %r% spatne
+echo na shledanou
+pause

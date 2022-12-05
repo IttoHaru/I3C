@@ -1,0 +1,5 @@
+@echo off
+cls
+:start
+echo Hardwarovy Vedomostni Kviz
+set /p q1=Jaka zkratka oznacuje pojmenovani grafickeho procesoru? [a]CPU [b]GPU [c] 
